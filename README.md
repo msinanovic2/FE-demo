@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+To install flutter follow the following link:
+https://docs.flutter.dev/get-started/install
+
+Clone repositoty and run command "flutter pub get" inside home dir
+To run application run command "flutter run"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
